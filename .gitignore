@@ -1,0 +1,12 @@
+﻿#
+# Normal rules
+#
+
+*~
+
+#
+# Top-level generic files
+#
+/bin
+/bin/*
+

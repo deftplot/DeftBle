@@ -1,0 +1,15 @@
+<!-- 使用RelativeLayout布局非等比缩放VideoView, -->
+<!-- 或者重载onMeasure也可以实现 -->
+<!-- int width = getDefaultSize(0, widthMeasureSpec); -->
+<!-- int height = getDefaultSize(0, heightMeasureSpec); -->
+<!-- setMeasuredDimension(width, height); -->
+<com.fc.zn.FCMediaView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/media_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true" />
+

@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/action_bluetooth_on"
+        android:orderInCategory="10"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_bluetooth_on"/>
+	<item
+        android:id="@+id/action_bluetooth_off"
+        android:orderInCategory="11"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_bluetooth_off"/>
+	<item
+        android:id="@+id/action_change_ble"
+        android:orderInCategory="11"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_change_ble"/>
+	<item
+        android:id="@+id/action_beginscan"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_beginscan"/>
+	<item
+        android:id="@+id/action_endscan"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_endscan"/>
+	<item
+        android:id="@+id/action_clear_all"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_clear_all"/>
+	
+</menu>

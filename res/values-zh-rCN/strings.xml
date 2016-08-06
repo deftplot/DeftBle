@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">测试</string>
+    <string name="action_change_ble">更改Ble</string>
+    <string name="action_bluetooth_on">打开</string>
+    <string name="action_bluetooth_off">关闭</string>
+    <string name="action_beginscan">开始扫描</string>
+    <string name="action_endscan">停止扫描</string>
+    <string name="action_clear_all">清空所有</string>
+    <string name="read">读</string>
+    <string name="write">写</string>
+    <string name="write_no_resp">无回应写</string>
+    <string name="notify">通知</string>
+    <string name="indicate">指示</string>
+    <string name="connect_begin">正在连接到低功耗蓝牙</string>
+    <string name="connect_failed">连接低功耗蓝牙失败</string>
+    <string name="discover_services">查找服务</string>
+    <string name="discover_services_failed">查找服务失败</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FCAndroidTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_change_ble">change ble</string>
+    <string name="action_bluetooth_on">on</string>
+    <string name="action_bluetooth_off">off</string>
+    <string name="action_beginscan">begin scan</string>
+    <string name="action_endscan">end scan</string>
+    <string name="action_clear_all">clear all</string>
+	<string name="read">read</string> 
+	<string name="write">write</string> 
+	<string name="write_no_resp">write no resp</string> 
+	<string name="notify">notify</string> 
+	<string name="indicate">indicate</string>
+	<string name="connect_begin">ble connect begin </string>
+	<string name="connect_failed">ble connect failed</string>
+	<string name="discover_services">discover services</string>
+	<string name="discover_services_failed">discover services failed</string>
+	<string name="support_wechat">support WeChat AirSync</string>
+	<string name="no_support_wechat">not support WeChat AirSync </string>
+	<string name="wechat_send">Wechat send data </string>
+	<string name="wechat_send_failed">Wechat send data failed </string>
+	<string name="wechat_send_succ">Wechat send data succ</string>
+</resources>
