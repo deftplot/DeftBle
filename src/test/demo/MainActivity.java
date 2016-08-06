@@ -17,7 +17,6 @@ import com.deft.ble.DeftBleCallback;
 import com.deft.ble.DeftBleManager;
 import com.deft.ble.op.OpFuture;
 import com.deft.ble.op.OpResult;
-import com.fc.test.R;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -37,7 +36,6 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
